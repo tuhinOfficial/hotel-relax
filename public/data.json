@@ -1,0 +1,277 @@
+[
+  {
+    "id": 1,
+    "name": "Grand Hyatt",
+    "location": "New York City, NY",
+    "rating": 4.5,
+    "price": 250,
+    "amenities": [
+      "pool",
+      "restaurant",
+      "fitness center",
+      "bar",
+      "conference facilities"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Mandarin Oriental",
+    "location": "Miami, FL",
+    "rating": 4.8,
+    "price": 400,
+    "amenities": [
+      "spa",
+      "pool",
+      "restaurant",
+      "fitness center",
+      "bar",
+      "conference facilities"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "The Ritz-Carlton",
+    "location": "San Francisco, CA",
+    "rating": 4.7,
+    "price": 350,
+    "amenities": [
+      "spa",
+      "pool",
+      "restaurant",
+      "fitness center",
+      "bar",
+      "conference facilities"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Four Seasons",
+    "location": "Los Angeles, CA",
+    "rating": 4.9,
+    "price": 600,
+    "amenities": [
+      "spa",
+      "pool",
+      "restaurant",
+      "fitness center",
+      "bar",
+      "conference facilities"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Waldorf Astoria",
+    "location": "Chicago, IL",
+    "rating": 4.6,
+    "price": 300,
+    "amenities": [
+      "spa",
+      "pool",
+      "restaurant",
+      "fitness center",
+      "bar",
+      "conference facilities"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "The Peninsula",
+    "location": "Tokyo, Japan",
+    "rating": 4.8,
+    "price": 500,
+    "amenities": [
+      "spa",
+      "pool",
+      "restaurant",
+      "fitness center",
+      "bar",
+      "conference facilities"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "St. Regis",
+    "location": "New York City, NY",
+    "rating": 4.7,
+    "price": 450,
+    "amenities": [
+      "spa",
+      "pool",
+      "restaurant",
+      "fitness center",
+      "bar",
+      "conference facilities"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "JW Marriott",
+    "location": "Las Vegas, NV",
+    "rating": 4.4,
+    "price": 200,
+    "amenities": [
+      "pool",
+      "restaurant",
+      "fitness center",
+      "bar",
+      "conference facilities"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "The Westin",
+    "location": "Seattle, WA",
+    "rating": 4.2,
+    "price": 150,
+    "amenities": [
+      "pool",
+      "restaurant",
+      "fitness center",
+      "bar",
+      "conference facilities"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Fairmont",
+    "location": "WashingtonD.C., USA",
+    "rating": 4.6,
+    "price": 300,
+    "amenities": [
+      "spa",
+      "pool",
+      "restaurant",
+      "fitness center",
+      "bar",
+      "conference facilities"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Hilton",
+    "location": "London, UK",
+    "rating": 4.3,
+    "price": 200,
+    "amenities": [
+      "pool",
+      "restaurant",
+      "fitness center",
+      "bar",
+      "conference facilities"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Sheraton",
+    "location": "Dubai, UAE",
+    "rating": 4.2,
+    "price": 250,
+    "amenities": [
+      "pool",
+      "restaurant",
+      "fitness center",
+      "bar",
+      "conference facilities"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "InterContinental",
+    "location": "Sydney, Australia",
+    "rating": 4.7,
+    "price": 350,
+    "amenities": [
+      "spa",
+      "pool",
+      "restaurant",
+      "fitness center",
+      "bar",
+      "conference facilities"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Grand Mercure",
+    "location": "Paris, France",
+    "rating": 4.4,
+    "price": 300,
+    "amenities": [
+      "pool",
+      "restaurant",
+      "fitness center",
+      "bar",
+      "conference facilities"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Renaissance",
+    "location": "Barcelona, Spain",
+    "rating": 4.5,
+    "price": 250,
+    "amenities": [
+      "pool",
+      "restaurant",
+      "fitness center",
+      "bar",
+      "conference facilities"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Marriott",
+    "location": "Mumbai, India",
+    "rating": 4.2,
+    "price": 200,
+    "amenities": [
+      "pool",
+      "restaurant",
+      "fitness center",
+      "bar",
+      "conference facilities"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Radisson Blu",
+    "location": "Stockholm, Sweden",
+    "rating": 4.3,
+    "price": 150,
+    "amenities": [
+      "pool",
+      "restaurant",
+      "fitness center",
+      "bar",
+      "conference facilities"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Hyatt Regency",
+    "location": "Hong Kong, China",
+    "rating": 4.7,
+    "price": 450,
+    "amenities": [
+      "spa",
+      "pool",
+      "restaurant",
+      "fitness center",
+      "bar",
+      "conference facilities"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "DoubleTree",
+    "location": "Toronto, Canada",
+    "rating": 4.2,
+    "price": 150,
+    "amenities": [
+      "pool",
+      "restaurant",
+      "fitness center",
+      "bar",
+      "conference facilities"
+    ]
+  }
+]
